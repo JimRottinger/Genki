@@ -6,16 +6,29 @@ This repo contains my notes as I go through the two volumes of Genki along the w
 
 #### Volume 1
 
- -[ ] Chapter 00 - 挨拶　Greetings
- -[ ] Chapter 01 - 新しい友達 New Friends
- -[ ] Chapter 02 - 買い物 Shopping
- -[ ] Chapter 03 - デートの約束　Making a Date
- -[ ] Chapter 04 - 初めてのデート　The First Date
- -[ ] Chapter 05 - 沖縄旅行　A Trip to Okinawa
- -[ ] Chapter 06 - ロバートさんの1日　A Day in Robert's Life
- -[ ] Chapter 07 - 家族の写真　Family Picture
- -[ ] Chapter 08 - バーベキュー　Barbecue
- -[ ] Chapter 09 - かぶき　Kabuki
- -[ ] Chapter 10 - 冬休みの予定　Winter Vacation Plans
- -[ ] Chapter 11 - 休みのあと　After the Vacation
- -[ ] Chapter 12 - 病気　Feeling Ill
+ - [ ] Chapter 00 - 挨拶　Greetings  
+ - [ ] Chapter 01 - 新しい友達 New Friends  
+ - [ ] Chapter 02 - 買い物 Shopping  
+ - [ ] Chapter 03 - デートの約束　Making a Date  
+ - [ ] Chapter 04 - 初めてのデート　The First Date  
+ - [ ] Chapter 05 - 沖縄旅行　A Trip to Okinawa
+ - [ ] Chapter 07 - 家族の写真　Family Picture  
+ - [ ] Chapter 08 - バーベキュー　Barbecue  
+ - [ ] Chapter 09 - かぶき　Kabuki  
+ - [ ] Chapter 10 - 冬休みの予定　Winter Vacation Plans  
+ - [ ] Chapter 11 - 休みのあと　After the Vacation  
+ - [ ] Chapter 12 - 病気　Feeling Ill  
+
+#### Volume 2
+
+ - [ ] Chapter 13 - アルバイト探し　Looking for a Part-time Job  
+ - [ ] Chapter 14 - バレンタインデー Valentine's Day  
+ - [ ] Chapter 15 - 長野旅行 A Trip to Nagano  
+ - [ ] Chapter 16 - 忘れ物　Lost and Found  
+ - [ ] Chapter 17 - ぐちとうわさ話　Grumble and Gossip 
+ - [ ] Chapter 18 - ジョンさんのアルバイト　John's Part-Time Job
+ - [ ] Chapter 19 - 出迎え　Meeting the Boss  
+ - [ ] Chapter 20 - マイリーさんの買い物　Mary's Shopping  
+ - [ ] Chapter 21 - どろぼう　Burglar  
+ - [ ] Chapter 22 - 日本の教育　Education in Japan  
+ - [ ] Chapter 23 - 別れ　Goodbye  
