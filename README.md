@@ -6,7 +6,7 @@ This repo contains my notes as I go through the two volumes of Genki along the w
 
 #### Volume 1
 
- - [ ] Chapter 00 - 挨拶　Greetings
+ - [x] Chapter 00 - 挨拶　Greetings
  - [ ] Chapter 01 - 新しい友達 New Friends
  - [ ] Chapter 02 - 買い物 Shopping
  - [ ] Chapter 03 - デートの約束　Making a Date
