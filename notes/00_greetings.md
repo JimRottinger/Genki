@@ -12,16 +12,16 @@ There are 46 basic Hiragana syllables which can be seen in the following chart
 
 | **あ** | **い** | **う** | **え** | **お** |
 |:------:|:------:|:------:|:------:|:------:|
-|   か　 | 　き   | 　く   | 　け   | 　こ   |
-|   さ　 | 　し   | 　す   | 　せ   | 　そ   |
-|   た　 | 　ち   | 　つ   | 　て   | 　と   |
-|   な　 | 　に   | 　ぬ   | 　ね   | 　の   |
-|   は　 | 　ひ   | 　ふ   | 　へ   | 　ほ   |
-|   ま　 | 　み   | 　む   | 　め   | 　も   |
-|   や　 | 　　   | 　ゆ   | 　　   | 　よ   |
-|   ら　 | 　り   | 　る   | 　れ   | 　ろ   |
-|   わ　 | 　　   | 　　   | 　　   | 　を   |
-|   ん　 | 　　   | 　　   | 　　   | 　　   |
+|   か   |   き   |   く   |   け   |   こ   |
+|   さ   |   し   |   す   |   せ   |   そ   |
+|   た   |   ち   |   つ   |   て   |   と   |
+|   な   |   に   |   ぬ   |   ね   |   の   |
+|   は   |   ひ   |   ふ   |   へ   |   ほ   |
+|   ま   |   み   |   む   |   め   |   も   |
+|   や   |   　   |   ゆ   |   　   |   よ   |
+|   ら   |   り   |   る   |   れ   |   ろ   |
+|   わ   |   　   |   　   |   　   |   を   |
+|   ん   |   　   |   　   |   　   |   　   |
 
 An additional 23 sounds can be transcribed using **diacritical** marks which consist of a short pair of diagonal strokes in the upper right of the character or a small circle for change h->p. For example:
  * が (ga)
@@ -54,16 +54,16 @@ The same exact 46 syllables in the Hiragana chart also exist in the Katakana cha
 
 | **ア** | **イ** | **ウ** | **エ** | **オ** |
 |:------:|:------:|:------:|:------:|:------:|
-|   カ　 | 　キ   | 　ク   | 　ケ   | 　コ   |
-|   サ　 | 　シ   | 　ス   | 　セ   | 　ソ   |
-|   タ　 | 　チ   | 　ツ   | 　テ   | 　ト   |
-|   ナ　 | 　ニ   | 　ヌ   | 　ネ   | 　ノ   |
-|   ハ　 | 　ヒ   | 　フ   | 　ヘ   | 　ホ   |
-|   マ　 | 　ミ   | 　ム   | 　メ   | 　モ   |
-|   ヤ　 | 　　   | 　ユ   | 　　   | 　ヨ   |
-|   ラ　 | 　リ   | 　ル   | 　レ   | 　ロ   |
-|   ワ　 | 　　   | 　　   | 　　   | 　ヲ   |
-|   ン　 | 　　   | 　　   | 　　   | 　　   |
+|   カ   |   キ   |   ク   |   ケ   |   コ   |
+|   サ   |   シ   |   ス   |   セ   |   ソ   |
+|   タ   |   チ   |   ツ   |   テ   |   ト   |
+|   ナ   |   ニ   |   ヌ   |   ネ   |   ノ   |
+|   ハ   |   ヒ   |   フ   |   ヘ   |   ホ   |
+|   マ   |   ミ   |   ム   |   メ   |   モ   |
+|   ヤ   |   　   |   ユ   |   　   |   ヨ   |
+|   ラ   |   リ   |   ル   |   レ   |   ロ   |
+|   ワ   |   　   |   　   |   　   |   ヲ   |
+|   ン   |   　   |   　   |   　   |   　   |
 
 All of the same modifers that exist in Hiragana also exist in Katakana. The only slight difference is to make a double consonant, ツ is used and for double vowels, instead of repeating the vowel, it is extending with a long dash ー.
 
@@ -96,5 +96,3 @@ Again, I will not be including any Vocabulary here as I am using memrise and han
  - There are several goodbye expressions in Japanese with the choice among them depending on the degree of separation. さようなら is used when you don't expect to see the person until tomorrow or sometime later. If you expect to see a friend again fairly soon, you can use じゃあ、また which is basically "see you later." For a more formal "excuse me, I'm leaving," go with しつれいします.
  - すみません can be used to mean 1) Excuse me, 2) I'm sorry, and 3) Thank you to show appreciation for something someone has done for you.
  - いいえ is primarily a "no" response but can also be used as the english "no problem."
-
-#### Culture Note
