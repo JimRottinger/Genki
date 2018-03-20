@@ -85,3 +85,16 @@ In terms of their formation, there are roughly four types of Kanji:
  3. Compound Ideograms - made from two or more Kanji
  4. Phonetic Ideograms - made up of a meaning element and a sound element.
 
+
+## Greetings
+
+Again, I will not be including any Vocabulary here as I am using memrise and hand-made flascards for that.
+
+#### Expression Notes
+
+ - おはよう is used between friends and family members, typically before noon but can also be said in a casual setting in the afternoon. おはようございます is used with less intimate acquaintances.
+ - There are several goodbye expressions in Japanese with the choice among them depending on the degree of separation. さようなら is used when you don't expect to see the person until tomorrow or sometime later. If you expect to see a friend again fairly soon, you can use じゃあ、また which is basically "see you later." For a more formal "excuse me, I'm leaving," go with しつれいします.
+ - すみません can be used to mean 1) Excuse me, 2) I'm sorry, and 3) Thank you to show appreciation for something someone has done for you.
+ - いいえ is primarily a "no" response but can also be used as the english "no problem."
+
+#### Culture Note
