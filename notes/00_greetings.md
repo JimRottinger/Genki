@@ -48,7 +48,7 @@ Note that this only applies to consonants. If you would like to repeat a vowel s
  * おばあさん   (obaasan)
  * おじいさん   (ojiisan)
 
-## Katakana
+#### Katakana
 
 The same exact 46 syllables in the Hiragana chart also exist in the Katakana chart.
 
@@ -68,3 +68,20 @@ The same exact 46 syllables in the Hiragana chart also exist in the Katakana cha
 All of the same modifers that exist in Hiragana also exist in Katakana. The only slight difference is to make a double consonant, ツ is used and for double vowels, instead of repeating the vowel, it is extending with a long dash ー.
 
 Since Katakana is used for foreign words. There are some sounds that exist in Katakana that do not exist in Hiragana. For example, The "v" sound is sometimes written as ヴ. There are also additional contracted sounds that do not exist in Hiragana. They can be easily figured out, however, if you know the katakana table being that, besides V, they all use the same characters.
+
+#### Kanji
+
+The third and final type of character in Japanese is Kanji, which are Chinese characters that were introduced to Japan more than 1500 years ago when the Japanese did not have a writing system (Hiragana and Katakana evolved later on). Now, what makes Kanji so difficult is that there are 1000s of them, and many, if not most of them, possess multiple readings which can be divided into two types.
+
+ - **on-yomi** which is the Chinese reading, derived from the Chinese pronunciation
+ - **kun-yomi** are the Japanese readings that came to exist when Kanji started being used to write native Japanese words.
+
+For reference, by the time of high school graduation, Japan students are expected to know 2136 kanji, 1006 of which are taught at the elementary level.
+
+In terms of their formation, there are roughly four types of Kanji:
+
+ 1. Pictograms - made from a picture
+ 2. Simple - dots and lines representing a concept such as 三 (three)
+ 3. Compound Ideograms - made from two or more Kanji
+ 4. Phonetic Ideograms - made up of a meaning element and a sound element.
+
